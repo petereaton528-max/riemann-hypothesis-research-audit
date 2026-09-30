@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this research audit, please cite it using these metadata."
+title: "Riemann Hypothesis Research Audit: Spectral, Boundary, and Zero-Confinement Approaches"
+type: report
+version: 0.1.0
+date-released: 2026-09-30
+authors:
+  - name: "UT"
+abstract: >-
+  A technical research audit and route map of spectral, trace, boundary,
+  rigged-Hilbert, and non-spectral zero-confinement approaches to the Riemann
+  hypothesis. The archive does not claim a proof or disproof of RH.
+keywords:
+  - Riemann hypothesis
+  - explicit formula
+  - spectral realization
+  - p-adic analysis
+  - research audit
+license: CC-BY-4.0

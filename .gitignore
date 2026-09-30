@@ -1,0 +1,50 @@
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Environments, credentials, and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*
+secrets*
+
+# Generated artifacts and logs
+build/
+dist/
+tmp/
+temp/
+cache/
+*.log
+*.tmp
+*.bak
+
+# Large numerical and binary artifacts
+*.npy
+*.npz
+*.bin
+*.dat
+*.h5
+*.hdf5
+*.onnx
+*.pt
+*.pth
+*.pdf
+
